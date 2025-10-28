@@ -127,5 +127,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <img width="955" height="403" alt="image" src="https://github.com/user-attachments/assets/754bb2c6-95b5-48d4-b6cd-3e9fb1a053d7" />
 
 
-contract address 
-0x9edbb97dc3b1bb2822919659b545ee8b744f9b6b
+### Smart Contract Address
+**Network:** Sepolia Testnet  
+**Deployed Contract:** `0x9edbb97dc3b1bb2822919659b545ee8b744f9b6b`
+
+
+
+
